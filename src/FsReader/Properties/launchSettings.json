@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FsReader": {
+      "commandName": "Project",
+      "commandLineArgs": " -p \"C:\\\\\""
+    },
+    "FsReader - remote": {
+      "commandName": "Project",
+      "commandLineArgs": "-p \"Z:\\misc\\np\""
+    }
+  }
+}
